@@ -13,6 +13,7 @@
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
