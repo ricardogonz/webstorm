@@ -14,8 +14,8 @@
       <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
-      <mask>*.test.js</mask>
       <mask>*</mask>
+      <mask>*.test.js</mask>
     </recentFileMasks>
   </component>
 </application>
